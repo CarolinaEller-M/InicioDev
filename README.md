@@ -2,11 +2,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Carolina Eller Marinho de Paula
+Matricula: 878827
 
 ## Tela de inspeção com navegador
 
-
+![alt text](image.png)
 ## Tela de projeto no Replit
 
+![alt text](image-1.png)
