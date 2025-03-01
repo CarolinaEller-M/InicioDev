@@ -11,6 +11,6 @@ Matricula: 878827
 
 ## Tela de projeto no Replit
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 
